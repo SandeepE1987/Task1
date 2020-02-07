@@ -13,7 +13,7 @@ import java.util.List;
 
 public class ActivityTask2 extends AppCompatActivity {
 
-    private static final int ROW_COUNT = 15;
+    private static final int ROW_COUNT = 4;
     ItemRVAdapter itemRVAdapter;
     RecyclerView recyclerView;
 

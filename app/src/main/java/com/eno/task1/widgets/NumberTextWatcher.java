@@ -1,4 +1,4 @@
-package com.eno.task1;
+package com.eno.task1.widgets;
 
 import android.text.Editable;
 import android.text.TextWatcher;

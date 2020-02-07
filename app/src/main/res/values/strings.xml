@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Task1</string>
+    <string name="app_name">Tasks</string>
     <string name="let_s_start">Let\'s start</string>
     <string name="enter_value">Enter value</string>
     <string name="start">Start</string>
@@ -9,4 +9,10 @@
     <string name="value_is_greater_than_five_nine_nine">Value is greater than 5.99</string>
     <string name="ok">OK</string>
     <string name="please_enter_a_valid_number">Please enter a valid number</string>
+    <string name="update">Update</string>
+    <string name="discard">Discard</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="value_is_not_within_range">Value is not within range</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
 </resources>
